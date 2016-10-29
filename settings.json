@@ -1,0 +1,8 @@
+// also install elm, elm-format and vscode-elixir plus seti file icon theme
+{
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "elm-format.formatOnSave": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.wordWrap": true
+}
